@@ -114,7 +114,7 @@ WiFiManager wifiManager;
     espalexa.begin();
 
     Serial.println("Ativado Espalexa");
-    Serial.println("ZEN Vox Rev.0.3");
+    Serial.println("by fernando belissimo");
 
       
     digitalWrite(led_conn, HIGH);
